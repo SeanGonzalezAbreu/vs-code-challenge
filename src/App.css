@@ -1,13 +1,17 @@
 .main-container {
-    display: flex;
-    justify-content: flex-start;
-    height: calc(100vh - 70px)
+  display: flex;
+  justify-content: flex-start;
+  height: calc(100vh - 70px);
 }
 
 .side-menu {
-    width: 300px;
-    position: sticky;
-    top: 0;
-    align-self: flex-start;
-    flex: 0 0 auto;
+  width: 300px;
+  position: sticky;
+  top: 0;
+  align-self: flex-start;
+  flex: 0 0 auto;
+}
+
+.active {
+  background-color: aliceblue;
 }

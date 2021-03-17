@@ -1,6 +1,17 @@
-# Getting Started with Create React App
+# Getting Started with the Challenge
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+- delete first yarn.lock to install properly
+
+- install react-scripts globally with `npm i react-scripts -g` or `yarn global react-scripts`
+
+- install the dependencies with `npm install` or `yarn install`
+
+-  `npm start` or `yarn start` to run the project
+
+- `import React from "react";` at App.js
+
 
 ## Available Scripts
 
